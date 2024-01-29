@@ -6,7 +6,7 @@
 	<dict>
 		<key>AccessibilityResources.bundle/Info.plist</key>
 		<data>
-		5x3vzI3cA9o886+4s0zxFxaKlLc=
+		1gnOLHg6RQtzoj3Pkht9KwreGNw=
 		</data>
 		<key>AccessibilityResources.bundle/en.lproj/Localizable.strings</key>
 		<dict>
@@ -27,7 +27,7 @@
 		</data>
 		<key>GoogleSignIn.bundle/Info.plist</key>
 		<data>
-		2c85TgexuBkzEzRv6WdV5roEpKA=
+		l2IYO3Y3EtcF1WaIjx9Mk+pwb74=
 		</data>
 		<key>GoogleSignIn.bundle/Roboto-Bold.ttf</key>
 		<data>
@@ -429,7 +429,7 @@
 		</data>
 		<key>Headers/JitsiMeetView.h</key>
 		<data>
-		G4FN0csD6yKmhAid02NpcnMEBoI=
+		ohgfCLP68iy8Z1T7UrjXNZ0mYB4=
 		</data>
 		<key>Headers/JitsiMeetViewDelegate.h</key>
 		<data>
@@ -437,51 +437,51 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		5nabYdB9pl6JK+97ZbCPZw9kMG8=
+		qxOMtkS5qdCHyPxxiRne7j9d4Bw=
 		</data>
 		<key>Modules/JitsiMeetSDK.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		DnBVK8E8HwIoHe5/q/+QqCUHfIY=
+		oWZhExAIWRIGF0DwjKOvXaejcZI=
 		</data>
 		<key>Modules/JitsiMeetSDK.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		eYZ6+QlnIixrITaT9nbB4iVQKQY=
+		t3CWI7VEa9FUjKSCPj248PSuJoE=
 		</data>
 		<key>Modules/JitsiMeetSDK.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		jn+UU/gQAF0LWFC/hC/3mdJz/0M=
+		qFloojeY4Miej2b7BbtdQK4lrV8=
 		</data>
 		<key>Modules/JitsiMeetSDK.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		eYZ6+QlnIixrITaT9nbB4iVQKQY=
+		t3CWI7VEa9FUjKSCPj248PSuJoE=
 		</data>
 		<key>Modules/JitsiMeetSDK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		qFCHjCi8Y31RTrbVpAB4A3cF1Ng=
+		9W1Cjc3TUWQx++a2PdtquvnoSkU=
 		</data>
 		<key>Modules/JitsiMeetSDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		DnBVK8E8HwIoHe5/q/+QqCUHfIY=
+		oWZhExAIWRIGF0DwjKOvXaejcZI=
 		</data>
 		<key>Modules/JitsiMeetSDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		5R3ZqPUMKk88L1/Tw20/fq5euuo=
+		sfSWy6Ovs8ENAbOKLHvT3zYkVzU=
 		</data>
 		<key>Modules/JitsiMeetSDK.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		PgztuwHdsxO+LngP9RwL4rP1swk=
+		vhmtPrtmiHTl97ssoNWzuXI1msE=
 		</data>
 		<key>Modules/JitsiMeetSDK.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		5R3ZqPUMKk88L1/Tw20/fq5euuo=
+		sfSWy6Ovs8ENAbOKLHvT3zYkVzU=
 		</data>
 		<key>Modules/JitsiMeetSDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		wLLZ+6V0z7bdTA70uCpsB2aHjcE=
+		gFwu97j/nsz78TgYzAFbPs0Fkjg=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
-		AQWoEreXXmrAdz/vCZTQYIfi6Fw=
+		72cVTnHOhyEma8FSVCw2M/J4gCU=
 		</data>
 		<key>README.md</key>
 		<data>
@@ -633,7 +633,7 @@
 		</data>
 		<key>main.jsbundle</key>
 		<data>
-		1oV57Mt/OUSXr/rVW/yjfOAW97w=
+		w5zODVDPuMIwI3RIWQKXpsvmTKQ=
 		</data>
 		<key>noAudioSignal.mp3</key>
 		<data>
@@ -786,7 +786,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Tnl27gSFyBFZq2OcG4bN/ab+Fm0YztrekALcJGa+a1I=
+			9TJ6hwQWt/y+gfaXus7+zWfX9uIc1w9DkNBZv5l4Nho=
 			</data>
 		</dict>
 		<key>AccessibilityResources.bundle/en.lproj/Localizable.strings</key>
@@ -816,7 +816,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			9P/mN91zL2N7bzHzhp/EbwpBptKCMVkIEWOWWQ8eWmo=
+			XQBzh4RToHtlVZl6yQbJhBXcsOxgK82GgwlFV3fX0ZQ=
 			</data>
 		</dict>
 		<key>GoogleSignIn.bundle/Roboto-Bold.ttf</key>
@@ -1263,7 +1263,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			xkyh5rva3g85SH3lg+llO1lsW9o8bJN/ytZnGmQP9Vo=
+			tzoKpAA3oNqa+8PXuBxkc9l4RIwny6u94nXZeTsZXsk=
 			</data>
 		</dict>
 		<key>Headers/JitsiMeetViewDelegate.h</key>
@@ -1277,77 +1277,77 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			7hSJLRBdhuZyfo+iOMa14Ll/iuMpexmDlUEuwrQb5Uc=
+			8/HaALSaY2fspd/WYrIxdyUWQR01m4SryCICxi41tO4=
 			</data>
 		</dict>
 		<key>Modules/JitsiMeetSDK.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Vs5LrnOX5LbYSI/s8FhtojZeUCvSuZtWnQE3rNDE6cg=
+			yvtMmlyvl0DdpbbyZr5lbO+35/bcGl4r1ZLkPQLmok8=
 			</data>
 		</dict>
 		<key>Modules/JitsiMeetSDK.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			eMwzvwBqXKZEpeCDQcNrDDjbt5lSZAhrVfnKQhaRnvo=
+			Q4S/dErrkX8TVhbfM2s21ympmcza7VVjOpjqByn6lw0=
 			</data>
 		</dict>
 		<key>Modules/JitsiMeetSDK.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Vs5LrnOX5LbYSI/s8FhtojZeUCvSuZtWnQE3rNDE6cg=
+			yvtMmlyvl0DdpbbyZr5lbO+35/bcGl4r1ZLkPQLmok8=
 			</data>
 		</dict>
 		<key>Modules/JitsiMeetSDK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			SPV7NKYiXkrpw6CubyFgO10WabzDdj4VfYvcfemgRNQ=
+			u4TnaWm7o5vbKnrXRIvZVzcqMTExuZAbyZppz6VIyNg=
 			</data>
 		</dict>
 		<key>Modules/JitsiMeetSDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			7hSJLRBdhuZyfo+iOMa14Ll/iuMpexmDlUEuwrQb5Uc=
+			8/HaALSaY2fspd/WYrIxdyUWQR01m4SryCICxi41tO4=
 			</data>
 		</dict>
 		<key>Modules/JitsiMeetSDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			hyIjvAwmlBfowaWg9omxu8vAv/XL5SF+dDOMvlVKR7g=
+			QAeHePJUwr9uQP0uNgtNnlDbDQvSVgK2ELGne522Iuw=
 			</data>
 		</dict>
 		<key>Modules/JitsiMeetSDK.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			7BApthwCYOUO4WDCPVH2uFGGbyTCMfBIUdVuucwaroU=
+			gmyOvqfx0mmknTWNFJgArL4/arVwNadbO1JDzyHJlC8=
 			</data>
 		</dict>
 		<key>Modules/JitsiMeetSDK.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			hyIjvAwmlBfowaWg9omxu8vAv/XL5SF+dDOMvlVKR7g=
+			QAeHePJUwr9uQP0uNgtNnlDbDQvSVgK2ELGne522Iuw=
 			</data>
 		</dict>
 		<key>Modules/JitsiMeetSDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			o02CA1coUpFADdTf8t7cDnmQnOMZuqK+r0LxAYoaayw=
+			XfCeXgEjJoDsnOk3cIx239wFJoS61EhMj0T2uXL1YUk=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			MPhxIi68eCJOR+PHSWcWowJIiyKz6gH1hnIe6N2Agyc=
+			FSbHKFccSgCduQAGhqe97gZyzTxAwTZxgm7z+2sHCb0=
 			</data>
 		</dict>
 		<key>README.md</key>
@@ -1613,7 +1613,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			ZC0ZGcdAEJH+vbfnZA95Vr0ulmHH9kYJTDsTOs071pk=
+			nBzP6cJKm9RWApN8uQ1cbm986wZBhBzsq4jyQKIQWs4=
 			</data>
 		</dict>
 		<key>noAudioSignal.mp3</key>
